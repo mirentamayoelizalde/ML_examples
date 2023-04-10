@@ -6,7 +6,7 @@ This repository includes examples of knn, decision trees and random forest algor
   * [KNN classifier and regressor](https://github.com/mirentamayoelizalde/ML_examples/blob/main/k_nearest_neighbours.ipynb)
       - KNN classification of the iris dataset
       - KNN regression of Boston house prices
-  * [KNN classifier and regressor](https://github.com/mirentamayoelizalde/ML_examples/blob/main/random_forest.ipynb)
+  * [RF classifier and regressor](https://github.com/mirentamayoelizalde/ML_examples/blob/main/random_forest.ipynb)
       - RF regression: Boston House Prices
       - RF classification: MNIST handwritten digits
   * [Tree-based classifiers ](https://github.com/mirentamayoelizalde/ML_examples/blob/main/random_forest.ipynb)
