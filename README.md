@@ -9,7 +9,7 @@ This repository includes examples of knn, decision trees and random forest algor
   * [RF classifier and regressor](https://github.com/mirentamayoelizalde/ML_examples/blob/main/random_forest.ipynb)
       - RF regression: Boston House Prices
       - RF classification: MNIST handwritten digits
-  * [Tree-based classifiers]
+  * Tree-based classifiers
       - Decission tree for weather data classification and prediction - https://github.com/mirentamayoelizalde/ML_examples/blob/main/daily_weather.csv
       - RF for Social_Network_Ads data - https://github.com/mirentamayoelizalde/ML_examples/blob/main/Social_Network_Ads.csv
 
